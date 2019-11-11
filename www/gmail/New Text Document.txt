@@ -1,0 +1,22 @@
+		
+
+
+
+
+/*if(isset($_POST['submit']))
+			{
+				 $first = $_POST['fname'];
+
+				 if(empty($first)){
+				 	$ferror = "First name not empty";
+				 }
+				 else{
+				 	$fcount = strlen($first);
+				 	if($fcount<8){
+				 		$ferror = "Plz use 8 char";
+				 	}}
+
+				 	if(!empty($first) && $fcount<8){
+				 		$firstvar = $first; 
+				 	}}
+				 	$firstvar = $first;*/
